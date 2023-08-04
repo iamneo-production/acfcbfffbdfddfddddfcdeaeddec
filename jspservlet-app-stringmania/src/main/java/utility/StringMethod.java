@@ -2,7 +2,7 @@ package utility;
 
 public class StringMethod {
     private String input;
-    
+
     public String getInput() {
 		return input;
 	}
