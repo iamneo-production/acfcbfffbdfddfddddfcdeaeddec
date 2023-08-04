@@ -1,6 +1,8 @@
 package utility;
+
 public class StringMethod {
-    private String input;
+//	Enter the code here....
+private String input;
     
     public String getInput() {
 		return input;
