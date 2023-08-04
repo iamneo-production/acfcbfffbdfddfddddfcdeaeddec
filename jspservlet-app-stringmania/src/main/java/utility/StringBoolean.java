@@ -1,4 +1,4 @@
-
+package utility;
 public class StringBoolean {
     private String input1;
     private String input2;
