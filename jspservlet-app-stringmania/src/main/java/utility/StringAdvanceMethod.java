@@ -1,4 +1,4 @@
-package
+package utility;
 public class StringAdvanceMethod {
 	//Enter the code here...
 	private String input1;
